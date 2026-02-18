@@ -1,6 +1,6 @@
-g_ratio = 3
-sun_teeth = 18
-module = 1.5
+g_ratio = 5
+sun_teeth = 12
+module = 1.0
 
 n2_n1 = g_ratio/2 -1
 
